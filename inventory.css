@@ -1,0 +1,49 @@
+body{
+    margin: 0%;
+    padding: 0%;    background-color: gainsboro ;
+}
+
+header {
+    padding: 0px;
+    margin: 0px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 10%;
+    width: 100%;
+    text-align: center;
+    background: orangered;
+    color: white;
+    font-size: 30px;
+  }
+header h1{
+    color: black;
+    text-decoration: underline;
+}
+
+.search_form{
+    padding: 1px;
+    margin: 1%;
+    margin-top: 10%;
+    width: 20%;
+}
+
+.main {
+    width: 50%;
+    margin: 10% auto;
+}
+
+.list-group{
+    margin: 5%;
+    position: absolute;
+    left: 40%;
+    width: 10%;
+}
+
+.ttable{
+    position: absolute;
+    bottom: 28%;
+    left: 17%;
+    width: 70%;
+}
+
